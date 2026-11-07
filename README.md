@@ -138,14 +138,14 @@ The Worker source exposes `GET /health`, `POST /summarize`, and `POST /render`.
 
 - [Node.js brand-kit quickstart](#validate-your-first-brand-kit)
 - [CLI and MCP tool reference](#runtime-surfaces)
-- [Cloudflare Workers configuration](https://github.com/pooriaarab/agentic-brand/blob/main/wrangler.jsonc) for a Worker you deploy.
+- [Cloudflare Workers configuration](https://github.com/itsryanarmani/agentic-brand/blob/main/wrangler.jsonc) for a Worker you deploy.
 
 The repository is public. No separate public documentation site is configured.
 
 ## Status
 
 Version 0.1.0 is an early release; APIs can change before 1.0.
-Report reproducible problems through [GitHub issues](https://github.com/pooriaarab/agentic-brand/issues).
+Report reproducible problems through [GitHub issues](https://github.com/itsryanarmani/agentic-brand/issues).
 Public case studies are not yet published in this repository.
 
 ## FAQ
