@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-brand",
+  "name": "io.github.itsryanarmani/agentic-brand",
   "description": "Brand-kit validator for voice, look, and templates.",
   "version": "0.1.0",
   "repository": {

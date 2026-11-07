@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-brand",
+  "mcpName": "io.github.itsryanarmani/agentic-brand",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
